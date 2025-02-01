@@ -78,3 +78,38 @@ Test with first route ( homepage )
 
 
 
+# create a product model
+![alt text](image-12.png)
+
+
+import in Server.js
+![alt text](image-13.png)
+
+# write a logic to setup api endpoint for creating product
+
+![alt text](image-14.png)
+
+
+Test with Postman Desktop tool
+![alt text](image-16.png)
+![alt text](image-15.png)
+
+
+Verify in mongo DB collections
+
+![alt text](image-17.png)
+
+
+# write a logic to setup api endpoint for deleting product
+
+![alt text](image-18.png)
+
+and delete based on the ID
+
+![alt text](image-19.png)
+
+
+
+# similarly to get all products and edit a product
+![alt text](image-21.png)
+![alt text](image-20.png)
